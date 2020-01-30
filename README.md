@@ -3,7 +3,7 @@
 
 
 
-Aplicação desenvolvida seguindo os passos e exercicos aboradados no livro Aplicações web real-time com Node.js de Caio Ribeiro Pereira.
+Aplicação desenvolvida seguindo os passos e exercicos abordados no livro Aplicações web real-time com Node.js de Caio Ribeiro Pereira.
 
 
 ### Tech
